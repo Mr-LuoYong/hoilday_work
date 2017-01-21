@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,CAAC,CACC,MAAM,CAAC,CAAC,CACR,OAAO,CAAC,CAAC,CACT,SAAS,CAAC,IAAI",
+"sources": ["../sass/style.scss"],
+"names": [],
+"file": "style.css"
+}
